@@ -1,0 +1,27 @@
+{
+  "name": "yeti-bigfoot",
+  "version": "0.0.0",
+  "description": "auth system for yeti",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarofghosts/bigfoot.git"
+  },
+  "keywords": [
+    "yeti",
+    "auth",
+    "system"
+  ],
+  "author": "jesse keane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/bigfoot/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/bigfoot"
+}
